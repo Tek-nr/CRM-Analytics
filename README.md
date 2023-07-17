@@ -1,7 +1,5 @@
 # CRM Analytics
 
-# CRM Analytics
-
 This project provides a comprehensive analysis of customer relationship management (CRM) data. It aims to extract valuable insights and patterns from the data to drive business decisions and improve customer relationship strategies.
 
 ## Table of Contents

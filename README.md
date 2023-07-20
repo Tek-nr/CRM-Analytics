@@ -68,6 +68,12 @@ The results of the CRM Analytics project include:
 - Visualization of customer behavior patterns and trends.
 - Insights into customer engagement and satisfaction levels.
 - Recommendations for personalized marketing strategies and customer retention.
+  ![RFM Segmentation Table](https://github.com/Tek-nr/CRM-Analytics/blob/main/img/download%20(18).png)
+  ![RFM Segmented Users](https://github.com/Tek-nr/CRM-Analytics/blob/main/img/download%20(15).png)
+  ![RFM Segmented Users](https://github.com/Tek-nr/CRM-Analytics/blob/main/img/download%20(16).png)
+  ![RFM Segmented Users](https://github.com/Tek-nr/CRM-Analytics/blob/main/img/download%20(20).png)
+  ![Cohort Analysis](https://github.com/Tek-nr/CRM-Analytics/blob/main/img/download%20(17).png)
+
 
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions, improvements, or would like to add new features, feel free to submit a pull request.
